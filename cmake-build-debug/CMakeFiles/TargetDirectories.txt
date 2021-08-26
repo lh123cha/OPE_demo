@@ -1,0 +1,5 @@
+E:/Tencent/OPE_DEMO/cmake-build-debug/CMakeFiles/ope_server.dir
+E:/Tencent/OPE_DEMO/cmake-build-debug/CMakeFiles/OPE_DEMO.dir
+E:/Tencent/OPE_DEMO/cmake-build-debug/CMakeFiles/BSTree_test.dir
+E:/Tencent/OPE_DEMO/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Tencent/OPE_DEMO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

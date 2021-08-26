@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Tencent/OPE_DEMO/Server/BSTree.h
+iostream
+-
+stack
+-
+unordered_map
+-
+queue
+-
+bits/stdc++.h
+-
+
+E:/Tencent/OPE_DEMO/Server/BSTree_test.cpp
+iostream
+-
+BSTree.h
+E:/Tencent/OPE_DEMO/Server/BSTree.h
+unordered_map
+-
+
